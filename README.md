@@ -9,22 +9,22 @@ By combining **data cleaning, DAX calculations, and interactive visualization**,
 ---
 
 ### 🧰 Tools & Technologies Used  
-- **Power BI Desktop** — Data modeling & dashboard creation  
-- **Power Query** — Data transformation and cleaning  
-- **DAX (Data Analysis Expressions)** — For calculated columns & measures  
+- **Power BI Desktop** - Data modeling & dashboard creation  
+- **Power Query** - Data transformation and cleaning  
+- **DAX (Data Analysis Expressions)** - For calculated columns & measures  
 - **Dataset:** Netflix Movies and TV Shows (~2,000 records)
 
 ---
 
 ### 📊 Dashboard Features  
-1. **KPI Cards** — Total Titles, Movies, TV Shows, Top Country, and Average Movie Duration  
-2. **Donut Chart** — Distribution of Movies vs TV Shows  
-3. **Bar Chart** — Top 10 Countries by Number of Titles  
-4. **Line Chart** — Titles Released Over the Years  
-5. **Treemap** — Genre Popularity  
-6. **Stacked Bar Chart** — Ratings Distribution  
-7. **Table/Matrix View** — Detailed information on each title  
-8. **Slicers** — For filtering by Type, Country, Year, Rating, and Genre  
+1. **KPI Cards** - Total Titles, Movies, TV Shows, Top Country, and Average Movie Duration  
+2. **Donut Chart** - Distribution of Movies vs TV Shows  
+3. **Bar Chart** - Top 10 Countries by Number of Titles  
+4. **Line Chart** - Titles Released Over the Years  
+5. **Treemap** - Genre Popularity  
+6. **Stacked Bar Chart** - Ratings Distribution  
+7. **Table/Matrix View** - Detailed information on each title  
+8. **Slicers** - For filtering by Type, Country, Year, Rating, and Genre  
 
 ---
 
@@ -71,8 +71,8 @@ FIRSTNONBLANK(
 ### 🧩 How to Run the Project  
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/netflix-shows-analytics-powerbi.git
-   cd netflix-shows-analytics-powerbi
+   git clone https://github.com/deepanshr07/Netflix-Shows-Analytics-Power-BI.git
+   cd Netflix-Shows-Analytics-Power-BI
    ```
 2. **Open the Power BI file**  
    - Option A: Open `pbix/Netflix_Shows_Analytics.pbix` directly in Power BI Desktop  
