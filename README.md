@@ -98,5 +98,5 @@ FIRSTNONBLANK(
 **Author:** Deepansh Raina  
 - 💼 GitHub: [https://github.com/deepanshr07](https://github.com/deepanshr07)  
 - 📧 Email: deepanshrainaaa07@gmail.com  
-- 📊 Project: *Netflix Shows Analytics Dashboard (Power BI)*  
+- 📊 Project: Netflix Shows Analytics Dashboard (Power BI)  
 
