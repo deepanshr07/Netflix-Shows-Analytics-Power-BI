@@ -96,7 +96,7 @@ FIRSTNONBLANK(
 
 ### 📬 Contact  
 **Author:** Deepansh Raina  
-- 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)  
-- 📧 Email: deepanshraina@example.com  
+- 💼 GitHub: [https://github.com/deepanshr07](https://github.com/deepanshr07)  
+- 📧 Email: deepanshrainaaa07@gmail.com  
 - 📊 Project: *Netflix Shows Analytics Dashboard (Power BI)*  
 
