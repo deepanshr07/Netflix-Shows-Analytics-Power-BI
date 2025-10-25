@@ -76,7 +76,7 @@ FIRSTNONBLANK(
    ```
 2. **Open the Power BI file**  
    - Option A: Open `pbix/Netflix_Shows_Analytics.pbix` directly in Power BI Desktop  
-   - Option B: Import the CSV dataset (`data/Netflix_Data_2000.csv`) → Recreate visuals  
+   - Option B: Import the CSV dataset [Netflix_Data_2000](https://github.com/deepanshr07/Netflix-Shows-Analytics-Power-BI/blob/main/Netflix_Data_2000.csv) → Recreate visuals  
 3. **Explore the Dashboard**  
    - Use slicers for **Type**, **Country**, **Year**, and **Genre**  
    - Interact with charts to view country and genre trends  
